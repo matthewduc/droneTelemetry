@@ -1,0 +1,23 @@
+                    TELEMETRY SIMULATOR
+                           │
+                           │ every 100 ms
+                           ▼
+                 ┌───────────────────┐
+                 │ Telemetry packet  │
+                 │                   │
+                 │ altitude          │
+                 │ battery           │
+                 │ GPS satellites    │
+                 │ roll              │
+                 │ pitch             │
+                 │ packet age        │
+                 └─────────┬─────────┘
+                           │
+                           ▼
+                  ┌─────────────────┐
+                  │ Safety Monitor  │
+                  └────────┬────────┘
+                           │
+             ┌─────────────┼─────────────┐
+             ▼             ▼             ▼
+           NORMAL        WARNING       CRITICAL
