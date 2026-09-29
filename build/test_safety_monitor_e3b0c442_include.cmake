@@ -1,5 +1,0 @@
-if(EXISTS "/Users/nguyen/Documents/Code/C++/SearchAlgorithms/droneTelemetry/build/test_safety_monitor_e3b0c442_tests.cmake")
-  include("/Users/nguyen/Documents/Code/C++/SearchAlgorithms/droneTelemetry/build/test_safety_monitor_e3b0c442_tests.cmake")
-else()
-  add_test(test_safety_monitor_NOT_BUILT test_safety_monitor_NOT_BUILT)
-endif()
