@@ -1,0 +1,165 @@
+Start testing: Sep 29 15:18 +07
+----------------------------------------------------------
+1/6 Testing: SafetyMonitorTest.HealthyTelemetryIsNormal
+1/6 Test: SafetyMonitorTest.HealthyTelemetryIsNormal
+Command: "/Users/nguyen/Documents/Code/C++/SearchAlgorithms/droneTelemetry/build/safety_tests" "--gtest_filter=SafetyMonitorTest.HealthyTelemetryIsNormal" "--gtest_also_run_disabled_tests"
+Directory: /Users/nguyen/Documents/Code/C++/SearchAlgorithms/droneTelemetry/build
+"SafetyMonitorTest.HealthyTelemetryIsNormal" start time: Sep 29 15:18 +07
+Output:
+----------------------------------------------------------
+Running main() from /Users/nguyen/Documents/Code/C++/SearchAlgorithms/droneTelemetry/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = SafetyMonitorTest.HealthyTelemetryIsNormal
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from SafetyMonitorTest
+[ RUN      ] SafetyMonitorTest.HealthyTelemetryIsNormal
+[       OK ] SafetyMonitorTest.HealthyTelemetryIsNormal (0 ms)
+[----------] 1 test from SafetyMonitorTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"SafetyMonitorTest.HealthyTelemetryIsNormal" end time: Sep 29 15:18 +07
+"SafetyMonitorTest.HealthyTelemetryIsNormal" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/6 Testing: SafetyMonitorTest.LowBatteryProducesWarning
+2/6 Test: SafetyMonitorTest.LowBatteryProducesWarning
+Command: "/Users/nguyen/Documents/Code/C++/SearchAlgorithms/droneTelemetry/build/safety_tests" "--gtest_filter=SafetyMonitorTest.LowBatteryProducesWarning" "--gtest_also_run_disabled_tests"
+Directory: /Users/nguyen/Documents/Code/C++/SearchAlgorithms/droneTelemetry/build
+"SafetyMonitorTest.LowBatteryProducesWarning" start time: Sep 29 15:18 +07
+Output:
+----------------------------------------------------------
+Running main() from /Users/nguyen/Documents/Code/C++/SearchAlgorithms/droneTelemetry/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = SafetyMonitorTest.LowBatteryProducesWarning
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from SafetyMonitorTest
+[ RUN      ] SafetyMonitorTest.LowBatteryProducesWarning
+[       OK ] SafetyMonitorTest.LowBatteryProducesWarning (0 ms)
+[----------] 1 test from SafetyMonitorTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"SafetyMonitorTest.LowBatteryProducesWarning" end time: Sep 29 15:18 +07
+"SafetyMonitorTest.LowBatteryProducesWarning" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/6 Testing: SafetyMonitorTest.LostGpsProducesCritical
+3/6 Test: SafetyMonitorTest.LostGpsProducesCritical
+Command: "/Users/nguyen/Documents/Code/C++/SearchAlgorithms/droneTelemetry/build/safety_tests" "--gtest_filter=SafetyMonitorTest.LostGpsProducesCritical" "--gtest_also_run_disabled_tests"
+Directory: /Users/nguyen/Documents/Code/C++/SearchAlgorithms/droneTelemetry/build
+"SafetyMonitorTest.LostGpsProducesCritical" start time: Sep 29 15:18 +07
+Output:
+----------------------------------------------------------
+Running main() from /Users/nguyen/Documents/Code/C++/SearchAlgorithms/droneTelemetry/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = SafetyMonitorTest.LostGpsProducesCritical
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from SafetyMonitorTest
+[ RUN      ] SafetyMonitorTest.LostGpsProducesCritical
+[       OK ] SafetyMonitorTest.LostGpsProducesCritical (0 ms)
+[----------] 1 test from SafetyMonitorTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"SafetyMonitorTest.LostGpsProducesCritical" end time: Sep 29 15:18 +07
+"SafetyMonitorTest.LostGpsProducesCritical" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/6 Testing: SafetyMonitorTest.ExcessiveRollProducesCritical
+4/6 Test: SafetyMonitorTest.ExcessiveRollProducesCritical
+Command: "/Users/nguyen/Documents/Code/C++/SearchAlgorithms/droneTelemetry/build/safety_tests" "--gtest_filter=SafetyMonitorTest.ExcessiveRollProducesCritical" "--gtest_also_run_disabled_tests"
+Directory: /Users/nguyen/Documents/Code/C++/SearchAlgorithms/droneTelemetry/build
+"SafetyMonitorTest.ExcessiveRollProducesCritical" start time: Sep 29 15:18 +07
+Output:
+----------------------------------------------------------
+Running main() from /Users/nguyen/Documents/Code/C++/SearchAlgorithms/droneTelemetry/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = SafetyMonitorTest.ExcessiveRollProducesCritical
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from SafetyMonitorTest
+[ RUN      ] SafetyMonitorTest.ExcessiveRollProducesCritical
+[       OK ] SafetyMonitorTest.ExcessiveRollProducesCritical (0 ms)
+[----------] 1 test from SafetyMonitorTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"SafetyMonitorTest.ExcessiveRollProducesCritical" end time: Sep 29 15:18 +07
+"SafetyMonitorTest.ExcessiveRollProducesCritical" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/6 Testing: SafetyMonitorTest.ExcessivePitchProducesCritical
+5/6 Test: SafetyMonitorTest.ExcessivePitchProducesCritical
+Command: "/Users/nguyen/Documents/Code/C++/SearchAlgorithms/droneTelemetry/build/safety_tests" "--gtest_filter=SafetyMonitorTest.ExcessivePitchProducesCritical" "--gtest_also_run_disabled_tests"
+Directory: /Users/nguyen/Documents/Code/C++/SearchAlgorithms/droneTelemetry/build
+"SafetyMonitorTest.ExcessivePitchProducesCritical" start time: Sep 29 15:18 +07
+Output:
+----------------------------------------------------------
+Running main() from /Users/nguyen/Documents/Code/C++/SearchAlgorithms/droneTelemetry/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = SafetyMonitorTest.ExcessivePitchProducesCritical
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from SafetyMonitorTest
+[ RUN      ] SafetyMonitorTest.ExcessivePitchProducesCritical
+[       OK ] SafetyMonitorTest.ExcessivePitchProducesCritical (0 ms)
+[----------] 1 test from SafetyMonitorTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"SafetyMonitorTest.ExcessivePitchProducesCritical" end time: Sep 29 15:18 +07
+"SafetyMonitorTest.ExcessivePitchProducesCritical" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/6 Testing: SafetyMonitorTest.StaleTelemetryProducesCritical
+6/6 Test: SafetyMonitorTest.StaleTelemetryProducesCritical
+Command: "/Users/nguyen/Documents/Code/C++/SearchAlgorithms/droneTelemetry/build/safety_tests" "--gtest_filter=SafetyMonitorTest.StaleTelemetryProducesCritical" "--gtest_also_run_disabled_tests"
+Directory: /Users/nguyen/Documents/Code/C++/SearchAlgorithms/droneTelemetry/build
+"SafetyMonitorTest.StaleTelemetryProducesCritical" start time: Sep 29 15:18 +07
+Output:
+----------------------------------------------------------
+Running main() from /Users/nguyen/Documents/Code/C++/SearchAlgorithms/droneTelemetry/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = SafetyMonitorTest.StaleTelemetryProducesCritical
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from SafetyMonitorTest
+[ RUN      ] SafetyMonitorTest.StaleTelemetryProducesCritical
+[       OK ] SafetyMonitorTest.StaleTelemetryProducesCritical (0 ms)
+[----------] 1 test from SafetyMonitorTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"SafetyMonitorTest.StaleTelemetryProducesCritical" end time: Sep 29 15:18 +07
+"SafetyMonitorTest.StaleTelemetryProducesCritical" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Sep 29 15:18 +07

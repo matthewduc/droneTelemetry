@@ -1,0 +1,7 @@
+SafetyMonitorTest.HealthyTelemetryIsNormal 1 0.00980896
+SafetyMonitorTest.LowBatteryProducesWarning 1 0.00679079
+SafetyMonitorTest.LostGpsProducesCritical 1 0.00607288
+SafetyMonitorTest.ExcessiveRollProducesCritical 1 0.00635988
+SafetyMonitorTest.ExcessivePitchProducesCritical 1 0.00522063
+SafetyMonitorTest.StaleTelemetryProducesCritical 1 0.00589967
+---

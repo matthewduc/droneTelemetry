@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsafety_monitor.a CMakeFiles/safety_monitor.dir/src/safety_monitor.cpp.o
+/usr/bin/ranlib libsafety_monitor.a

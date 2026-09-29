@@ -21,6 +21,10 @@ int main() {
     TelemetrySimulator simulator;
     SafetyMonitor monitor;
 
+    // simulator.setFailureMode(
+    //     FailureMode::LostGps
+    // );
+
     while (true) {
         Telemetry telemetry = simulator.next();
         SafetyStatus status = monitor.evaluate(telemetry);
